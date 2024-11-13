@@ -17,27 +17,6 @@ Hai semua, perkenalkan saya **Ahmad Hamdani**. Saya sangat tertarik dengan dunia
 ### 🌐 Sosial Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/username)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-
-# 👋 Hai, saya @hamdaniqhmqd
-
-### Tentang Saya
-Hai semua, perkenalkan saya **Ahmad Hamdani**. Saya sangat tertarik dengan dunia teknologi dan perkembangannya. Saat ini saya sedang menempuh studi di **Politeknik Negeri Madiun**, jurusan Teknologi Informasi.
-
-### Ketertarikan
-- 👀 Saya tertarik untuk mengeksplorasi berbagai perkembangan teknologi terbaru dan bagaimana teknologi tersebut dapat diterapkan untuk menyelesaikan masalah nyata.
-- 🌱 Saat ini saya sedang mempelajari berbagai bahasa pemrograman dan framework untuk meningkatkan kemampuan saya dalam pengembangan web dan aplikasi mobile.
-- 💞️ Saya ingin berkolaborasi pada proyek yang berkaitan dengan pengembangan perangkat lunak, khususnya dalam pengembangan aplikasi web dan mobile.
-
-### Fakta Menarik
-- ⚡ Fakta menarik: Saya sangat bersemangat dalam dunia coding dan selalu antusias untuk belajar hal-hal baru setiap harinya!
-
-### Mari Terhubung
-- 📫 Cara menghubungi saya: Anda bisa menghubungi saya melalui [sosial media](#🌐-socials) atau jangan ragu untuk menghubungi jika membutuhkan sesuatu atau ingin berdiskusi tentang peluang kolaborasi.
-
-### 🌐 Sosial Media:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/username)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hamdani-769b45280/)
 
 ---
