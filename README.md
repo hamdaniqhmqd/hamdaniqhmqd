@@ -1,10 +1,10 @@
-# 👋 Hai, saya @hamdaniqhmqd
+# 👋 Hai, saya **Ahmad Hamdani**
 
 ### Tentang Saya
-Hai semua, perkenalkan saya **Ahmad Hamdani**. Saya sangat tertarik dengan dunia teknologi dan perkembangannya. Saat ini saya sedang menempuh studi di **Politeknik Negeri Madiun**, jurusan Teknologi Informasi.
+Hai semua, perkenalkan saya **Ahmad Hamdani**. Saya sangat tertarik dengan perkembangan dunia teknologi. Saat ini saya sedang menempuh studi di **Politeknik Negeri Madiun**, jurusan Teknologi Informasi.
 
 ### Ketertarikan
-- 👀 Saya tertarik untuk mengeksplorasi berbagai perkembangan teknologi terbaru dan bagaimana teknologi tersebut dapat diterapkan untuk menyelesaikan masalah nyata.
+- 👀 Saya tertarik untuk mengeksplorasi berbagai perkembangan teknologi terbaru dan bagaimana teknologi tersebut dapat diterapkan untuk menyelesaikan masalah saat ini.
 - 🌱 Saat ini saya sedang mempelajari berbagai bahasa pemrograman dan framework untuk meningkatkan kemampuan saya dalam pengembangan web dan aplikasi mobile.
 - 💞️ Saya ingin berkolaborasi pada proyek yang berkaitan dengan pengembangan perangkat lunak, khususnya dalam pengembangan aplikasi web dan mobile.
 
@@ -15,9 +15,13 @@ Hai semua, perkenalkan saya **Ahmad Hamdani**. Saya sangat tertarik dengan dunia
 - 📫 Cara menghubungi saya: Anda bisa menghubungi saya melalui [sosial media](#🌐-socials) atau jangan ragu untuk menghubungi jika membutuhkan sesuatu atau ingin berdiskusi tentang peluang kolaborasi.
 
 ### 🌐 Sosial Media:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/username)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/username)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100049775690863&mibextid=ZbWKwL])
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://www.instagram.com/hamdani_qhmqd/])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hamdani-769b45280/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2381C784.svg?logo=whatsapp&logoColor=white)](https://wa.me/6285607599369)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)]([https://www.tiktok.com/@username](https://www.tiktok.com/@d.mnyie?_t=8rRWQR2FHGR&_r=1))
+[![Telegram](https://img.shields.io/badge/Telegram-%2300A7E1.svg?logo=telegram&logoColor=white)](https://t.me/hamdaniqhmqd)
+
 
 ---
 
