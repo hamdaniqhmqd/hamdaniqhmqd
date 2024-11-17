@@ -19,7 +19,7 @@ Hai semua, perkenalkan saya **Ahmad Hamdani**. Saya sangat tertarik dengan perke
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://www.instagram.com/hamdani_qhmqd/])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hamdani-769b45280/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2381C784.svg?logo=whatsapp&logoColor=white)](https://wa.me/6285607599369)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)]([https://www.tiktok.com/@username](https://www.tiktok.com/@d.mnyie?_t=8rRWQR2FHGR&_r=1))
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)]([https://www.tiktok.com/@username](https://www.tiktok.com/@hamdaniqhmqd?_t=8rRWQR2FHGR&_r=1))
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A7E1.svg?logo=telegram&logoColor=white)](https://t.me/hamdaniqhmqd)
 
 
