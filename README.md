@@ -36,7 +36,7 @@ Hai semua, perkenalkan saya **Ahmad Hamdani**. Saya sangat tertarik dengan perke
 ### 📊 GitHub Stats
 ![Hamdani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamdaniqhmqd&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hamdaniqhmqd&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hamdaniqhmqd&theme=radical&hide_border=false)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdaniqhmqd&layout=compact&theme=radical)
 
